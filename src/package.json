@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "reqwest": "latest",
+    "react-infinite-scroller": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "antd": "latest"
+  },
+  "keywords": [],
+  "name": "infinitescroll",
+  "description": ""
+}
